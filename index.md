@@ -1,5 +1,10 @@
-## Welcome to ML course
+# Welcome to ML course
 
-You can use the [editor on GitHub](https://github.com/salarMokhtariL/ML_Course/edit/gh-pages/index.md)
+### Salar Mokhtari laleh
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Headlines:
+* [Framing](https://github.com/salarMokhtariL/ML_Course/tree/main/01%20-%20Framing)
+
+* [Descending into ML](https://github.com/salarMokhtariL/ML_Course/tree/main/02%20-%20Descending%20into%20ML)
+
+* [Reducing Loss](https://github.com/salarMokhtariL/ML_Course/tree/main/03%20-%20Reducing%20Loss)
