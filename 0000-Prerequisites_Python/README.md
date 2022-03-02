@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/75142232/156165873-5c748d99-3733-4f7f-a82a-16d0287814cd.png) ========= Prerequisites Python ========  ![image](https://user-images.githubusercontent.com/75142232/156165873-5c748d99-3733-4f7f-a82a-16d0287814cd.png)
+# ![image](https://user-images.githubusercontent.com/75142232/156165873-5c748d99-3733-4f7f-a82a-16d0287814cd.png) Prerequisites Python ========  ![image](https://user-images.githubusercontent.com/75142232/156165873-5c748d99-3733-4f7f-a82a-16d0287814cd.png)
 
 
 ![python](https://user-images.githubusercontent.com/75142232/156165547-c7951257-5dff-4a2e-b53e-29b54a4a24ce.png)
