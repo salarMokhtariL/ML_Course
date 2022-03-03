@@ -1,6 +1,6 @@
 # Intro
 
-![image](https://user-images.githubusercontent.com/75142232/155896320-e49d20e3-59d8-4e76-8e44-44744248940e.png)
+![Red and Black Dark Gamer Sports YouTube Channel Art (1)](https://user-images.githubusercontent.com/75142232/156604778-b8326b11-eb81-4a49-b186-9b5da94b179b.png)
 
 
 
