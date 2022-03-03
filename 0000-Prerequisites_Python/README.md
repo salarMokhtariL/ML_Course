@@ -1,7 +1,5 @@
-# ![image](https://user-images.githubusercontent.com/75142232/156165873-5c748d99-3733-4f7f-a82a-16d0287814cd.png) ^_^ Prerequisites Python ![image](https://user-images.githubusercontent.com/75142232/156165873-5c748d99-3733-4f7f-a82a-16d0287814cd.png)
+![Black Blue and Neon Pink Modern Tech Electronics and Technology X-Frame Banner](https://user-images.githubusercontent.com/75142232/156600826-80db21b4-bfa6-4f4c-b34b-6460f827862a.png)
 
-
-![python](https://user-images.githubusercontent.com/75142232/156165547-c7951257-5dff-4a2e-b53e-29b54a4a24ce.png)
 
 Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small- and large-scale projects.
 
