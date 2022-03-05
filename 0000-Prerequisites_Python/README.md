@@ -1,4 +1,4 @@
-![Red and Black Dark Gamer Sports YouTube Channel Art](https://user-images.githubusercontent.com/75142232/156605035-693e7192-6081-4d2f-ba64-e087d8ed74ff.png)
+![Pink And Green Motivation Quote LinkedIn Banner (4)](https://user-images.githubusercontent.com/75142232/156870648-4f48cdb3-6695-46e2-9aa1-f13710033343.png)
 
 
 
