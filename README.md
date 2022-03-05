@@ -2,7 +2,7 @@
 
 ## Salar Mokhtari Laleh 
 
-![Red and Black Dark Gamer Sports YouTube Channel Art (2)](https://user-images.githubusercontent.com/75142232/156604678-3a613fed-28ed-4d11-93a4-2f732627d00f.png)
+![Pink And Green Motivation Quote LinkedIn Banner (6)](https://user-images.githubusercontent.com/75142232/156870598-6e98f110-dd09-408a-923c-0509c0edc9df.png)
 
 
 
