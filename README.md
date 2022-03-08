@@ -1,6 +1,6 @@
 # ML_Course
 
-## Salar Mokhtari Laleh 
+## Salar_Mokhtari_Laleh 
 
 ![Pink And Green Motivation Quote LinkedIn Banner (6)](https://user-images.githubusercontent.com/75142232/156870598-6e98f110-dd09-408a-923c-0509c0edc9df.png)
 
