@@ -1,4 +1,4 @@
-# ML_Course
+# Machine Learning Course
 
 ## Salar_Mokhtari_Laleh 
 
