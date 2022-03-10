@@ -1,2 +1,0 @@
-Linear regresion 
-Training and Loos

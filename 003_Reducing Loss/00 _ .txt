@@ -1,8 +1,0 @@
- 01 ::---:: An interative Approach
- 02 ::---:: Gradient Descent
- 03 ::---:: Learning Rate
- 04 ::---:: Optimizing Learning Rate
- 05 ::---:: Stochastic Gradient Descen
- 
- 
- ++++ Exerise 
