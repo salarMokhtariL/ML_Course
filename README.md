@@ -1,6 +1,8 @@
 
 
-<h1 align=center> Machine learning </h1>
+<h1 align=center>     <img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/main/parrots/fiestaparrot.gif" width="30" height="30"/>
+  Machine learning     <img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/main/parrots/bananaparrot.gif" width="30" height="30"/>
+ </h1>
 
 
 ![Purple Modern Gaming LinkedIn Banner](https://user-images.githubusercontent.com/75142232/158050235-08e59870-b962-447a-b30a-6360b476f677.png)
