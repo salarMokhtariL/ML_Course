@@ -1,7 +1,7 @@
 
 
 <h1 align=center>     
-  Machine learning     <img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/main/parrots/bananaparrot.gif" width="30" height="30"/>
+  Machine learning     
  </h1>
 
 
